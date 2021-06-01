@@ -2,20 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://cherss.github.io/post/first/</loc>
+    <loc>https://cherss.github.io/post/first/</loc>
     <lastmod>2021-06-01T10:23:38+08:00</lastmod>
   </url><url>
-    <loc>http://cherss.github.io/</loc>
+    <loc>https://cherss.github.io/</loc>
     <lastmod>2021-06-01T10:23:38+08:00</lastmod>
   </url><url>
-    <loc>http://cherss.github.io/post/</loc>
+    <loc>https://cherss.github.io/post/</loc>
     <lastmod>2021-06-01T10:23:38+08:00</lastmod>
   </url><url>
-    <loc>http://cherss.github.io/about/</loc>
+    <loc>https://cherss.github.io/about/</loc>
     <lastmod>2021-06-01T10:22:28+08:00</lastmod>
   </url><url>
-    <loc>http://cherss.github.io/categories/</loc>
+    <loc>https://cherss.github.io/categories/</loc>
   </url><url>
-    <loc>http://cherss.github.io/tags/</loc>
+    <loc>https://cherss.github.io/tags/</loc>
   </url>
 </urlset>
